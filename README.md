@@ -1,2 +1,1 @@
-# Discord-Theme
-Public Discord Theme
+Discord Theme v1.0
